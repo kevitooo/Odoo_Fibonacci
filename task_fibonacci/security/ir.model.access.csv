@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+acl_task,fibonacci.task_default,model_add_fibonacci,,1,1,1,1
+acl_task_history,fibonacci.task_history,model_add_fibonacci,group_history,1,1,1,1
